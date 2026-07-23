@@ -1,0 +1,6 @@
+pandas
+discord.py
+scikit-surprise
+opneai
+python-dotenv
+

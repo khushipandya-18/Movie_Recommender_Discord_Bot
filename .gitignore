@@ -1,0 +1,9 @@
+ml-100k
+discord.log
+working_ratings.data
+registered_users.csv
+.env
+node_modules/
+venv/
+Thumbs.db
+.DS_Store
